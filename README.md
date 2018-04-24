@@ -27,7 +27,7 @@ Windows 下仅用临时的测试，不要在生产环境使用 Docker for Window
 请选择磁盘空间富余的位置，依次运行下面的命令
 
 ```bash
-git clone -b 2.0 https://github.com/QingdaoU/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy
+git clone -b 2.0 https://github.com/hirCodd/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy
 ```
 
 ## 启动服务
